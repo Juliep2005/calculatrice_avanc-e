@@ -72,7 +72,7 @@ int main() {
                 cout << "Résultat (cos) est : " << resultat << endl;
                 break;
             case 9:
-            cout << "Entrez le nombre dont on veut calculer la racine carrée  : ";
+            cout << "Entrez le nombre dont on veut la tangente  : ";
                 cin >> nombre1;
                 resultat = tangente(nombre1);
                 cout << "Résultat (tan): " << resultat << endl;
